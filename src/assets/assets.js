@@ -120,7 +120,7 @@ export const product_list = [
     {
         _id: "1",
         name: "Macbook Pro M3",
-        image: food_1,
+        image: product_1,
         price: 129999,
         description: "add description",
         category: "MacBook"
@@ -128,77 +128,77 @@ export const product_list = [
     {
         _id: "2",
         name: "Macbook Pro M1",
-        image: food_2,
+        image: product_2,
         price: 109999,
         description: "add description",
         category: "MacBook"
     }, {
         _id: "3",
         name: "Macbook Air",
-        image: food_3,
+        image: product_3,
         price: 69999,
         description: "add description",
         category: "MacBook"
     }, {
         _id: "4",
         name: "ASUS ROG",
-        image: food_4,
+        image: product_4,
         price: 249999,
         description: "add description",
         category: "Laptop"
     }, {
         _id: "5",
         name: "MSI GF63",
-        image: food_5,
+        image: product_5,
         price: 149999,
         description: "add description",
         category: "Laptop"
     }, {
         _id: "6",
         name: "Lenevo Ideapad 5",
-        image: food_6,
+        image: product_6,
         price: 129999,
         description: "add description",
         category: "Laptop"
     }, {
         _id: "7",
         name: "ASUS TUF",
-        image: food_7,
+        image: product_7,
         price: 49999,
         description: "add description",
         category: "Laptop"
     }, {
         _id: "8",
         name: "ASUS Vivobook",
-        image: food_8,
+        image: product_8,
         price: 59999,
         description: "add description",
         category: "Laptop"
     }, {
         _id: "9",
         name: "iPhone 15 Pro Max",
-        image: food_9,
+        image: product_9,
         price: 149999,
         description: "add description",
         category: "iPhone"
     }, {
         _id: "10",
         name: "iPhone 15",
-        image: food_10,
+        image: product_10,
         price: 79999,
         description: "add description",
         category: "iPhone"
     }, {
         _id: "11",
         name: "iPhone 14 Pro Max",
-        image: food_11,
+        image: product_11,
         price: 129999,
         description: "add description",
         category: "iPhone"
     }, {
         _id: "12",
         name: "iPhone 13 Pro Max",
-        image: food_12,
+        image: product_12,
         price: 109999,
         description: "add description",
         category: "iPhone"
@@ -206,63 +206,63 @@ export const product_list = [
     {
         _id: "13",
         name: "iPhone 13",
-        image: food_13,
+        image: product_13,
         price: 59999,
         description: "add description",
         category: "iPhone"
     },{
         _id: "14",
         name: "Google Pixel 77 Pro",
-        image: food_14,
+        image: product_14,
         price: 119999,
         description: "add description",
         category: "Phone"
     }, {
         _id: "15",
         name: "Samsung S24 Ultra",
-        image: food_15,
+        image: product_15,
         price: 149999,
         description: "add description",
         category: "Phone"
     }, {
         _id: "16",
         name: "OnePlus 11 Pro",
-        image: food_16,
+        image: product_16,
         price: 79999,
         description: "add description",
         category: "Phone"
     }, {
         _id: "17",
         name: "Nothing Phone",
-        image: food_17,
+        image: product_17,
         price: 42999,
         description: "add description",
         category: "Phone"
     }, {
         _id: "18",
         name: "Samsung S23",
-        image: food_18,
+        image: product_18,
         price: 69999,
         description: "add description",
         category: "Phone"
     }, {
         _id: "19",
         name: "ASUS Rog 7",
-        image: food_19,
+        image: product_19,
         price: 59999,
         description: "add description",
         category: "Phone"
     }, {
         _id: "20",
         name: "Realme GT",
-        image: food_20,
+        image: product_20,
         price: 49999,
         description: "add description",
         category: "Phone"
     }, {
         _id: "21",
         name: "iPad Pro 13",
-        image: food_21,
+        image: product_21,
         price: 99999,
         description: "add description",
         category: "Tab"
@@ -270,21 +270,21 @@ export const product_list = [
     {
         _id: "22",
         name: "iPad Air",
-        image: food_22,
+        image: product_22,
         price: 74999,
         description: "add description",
         category: "Tab"
     },  {
         _id: "23",
         name: "Samsung Galaxy Tab S",
-        image: food_23,
+        image: product_23,
         price: 29999,
         description: "add description",
         category: "Tab"
     }, {
         _id: "24",
         name: "Google Pixel 6",
-        image: food_24,
+        image: product_24,
         price: 99999,
         description: "add description",
         category: "Phone"
@@ -292,7 +292,7 @@ export const product_list = [
     {
         _id: "25",
         name: "Samsung Watch",
-        image: food_25,
+        image: product_25,
         price: 29999,
         description: "add description",
         category: "Watch"
@@ -300,49 +300,49 @@ export const product_list = [
     {
         _id: "26",
         name: "Apple Watch 7",
-        image: food_26,
+        image: product_26,
         price: 49999,
         description: "add description",
         category: "Watch"
     }, {
         _id: "27",
         name: "Apple Watch 7 Pro",
-        image: food_27,
+        image: product_27,
         price: 69999,
         description: "add description",
         category: "Watch"
     }, {
         _id: "28",
         name: "Airpods Pro",
-        image: food_28,
+        image: product_28,
         price: 29999,
         description: "add description",
         category: "TWS"
     }, {
         _id: "29",
         name: "Airpods Max",
-        image: food_29,
+        image: product_29,
         price: 49999,
         description: "add description",
         category: "TWS"
     }, {
         _id: "30",
         name: "Samsung Buds",
-        image: food_30,
+        image: product_30,
         price: 12999,
         description: "add description",
         category: "TWS"
     }, {
         _id: "31",
         name: "iPhone Charger",
-        image: food_31,
+        image: product_31,
         price: 1999,
         description: "add description",
         category: "Charger"
     }, {
         _id: "32",
         name: "Type C Charger",
-        image: food_32,
+        image: product_32,
         price: 1599,
         description: "add description",
         category: "Charger"
