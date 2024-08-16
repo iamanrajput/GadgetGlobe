@@ -1,6 +1,6 @@
 import basket_icon from './basket_icon.png'
-import logo from './logo.png'
-import header_img from './header_img.png'
+import logo from './logo.jpg'
+import header_img from './header_img.jpg'
 import search_icon from './search_icon.png'
 import type_1 from './type_1.jpg'
 import type_2 from './type_2.jpg'
@@ -84,267 +84,267 @@ export const assets = {
 
 export const type_list = [
     {
-        type_name: "Salad",
+        type_name: "MacBook",
         type_image: type_1
     },
     {
-        type_name: "Rolls",
+        type_name: "Laptop",
         type_image: type_2
     },
     {
-        type_name: "Deserts",
+        type_name: "iPhone",
         type_image: type_3
     },
     {
-        type_name: "Sandwich",
+        type_name: "Phone",
         type_image: type_4
     },
     {
-        type_name: "Cake",
+        type_name: "Tab",
         type_image: type_5
     },
     {
-        type_name: "Pure Veg",
+        type_name: "TWS",
         type_image: type_6
     },
     {
-        type_name: "Pasta",
+        type_name: "Watch",
         type_image: type_7
     },
     {
-        type_name: "Noodles",
+        type_name: "Charger",
         type_image: type_8
     }]
 
 export const product_list = [
     {
         _id: "1",
-        name: "Greek salad",
-        image: product_1,
-        price: 12,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        name: "Macbook Pro M3",
+        image: food_1,
+        price: 129999,
+        description: "add description",
+        category: "MacBook"
     },
     {
         _id: "2",
-        name: "Veg salad",
-        image: product_2,
-        price: 18,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        name: "Macbook Pro M1",
+        image: food_2,
+        price: 109999,
+        description: "add description",
+        category: "MacBook"
     }, {
         _id: "3",
-        name: "Clover Salad",
-        image: product_3,
-        price: 169,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        name: "Macbook Air",
+        image: food_3,
+        price: 69999,
+        description: "add description",
+        category: "MacBook"
     }, {
         _id: "4",
-        name: "Chicken Salad",
-        image: product_4,
-        price: 249,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        name: "ASUS ROG",
+        image: food_4,
+        price: 249999,
+        description: "add description",
+        category: "Laptop"
     }, {
         _id: "5",
-        name: "Lasagna Rolls",
-        image: product_5,
-        price: 149,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        name: "MSI GF63",
+        image: food_5,
+        price: 149999,
+        description: "add description",
+        category: "Laptop"
     }, {
         _id: "6",
-        name: "Peri Peri Rolls",
-        image: product_6,
-        price: 129,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        name: "Lenevo Ideapad 5",
+        image: food_6,
+        price: 129999,
+        description: "add description",
+        category: "Laptop"
     }, {
         _id: "7",
-        name: "Chicken Rolls",
-        image: product_7,
-        price: 209,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        name: "ASUS TUF",
+        image: food_7,
+        price: 49999,
+        description: "add description",
+        category: "Laptop"
     }, {
         _id: "8",
-        name: "Veg Rolls",
-        image: product_8,
-        price: 159,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        name: "ASUS Vivobook",
+        image: food_8,
+        price: 59999,
+        description: "add description",
+        category: "Laptop"
     }, {
         _id: "9",
-        name: "Ripple Ice Cream",
-        image: product_9,
-        price: 149,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        name: "iPhone 15 Pro Max",
+        image: food_9,
+        price: 149999,
+        description: "add description",
+        category: "iPhone"
     }, {
         _id: "10",
-        name: "Fruit Ice Cream",
-        image: product_10,
-        price: 229,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        name: "iPhone 15",
+        image: food_10,
+        price: 79999,
+        description: "add description",
+        category: "iPhone"
     }, {
         _id: "11",
-        name: "Jar Ice Cream",
-        image: product_11,
-        price: 109,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        name: "iPhone 14 Pro Max",
+        image: food_11,
+        price: 129999,
+        description: "add description",
+        category: "iPhone"
     }, {
         _id: "12",
-        name: "Vanilla Ice Cream",
-        image: product_12,
-        price: 129,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        name: "iPhone 13 Pro Max",
+        image: food_12,
+        price: 109999,
+        description: "add description",
+        category: "iPhone"
     },
     {
         _id: "13",
-        name: "Chicken Sandwich",
-        image: product_13,
-        price: 129,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
-    },
-    {
+        name: "iPhone 13",
+        image: food_13,
+        price: 59999,
+        description: "add description",
+        category: "iPhone"
+    },{
         _id: "14",
-        name: "Vegan Sandwich",
-        image: product_14,
-        price: 189,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        name: "Google Pixel 77 Pro",
+        image: food_14,
+        price: 119999,
+        description: "add description",
+        category: "Phone"
     }, {
         _id: "15",
-        name: "Grilled Sandwich",
-        image: product_15,
-        price: 169,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        name: "Samsung S24 Ultra",
+        image: food_15,
+        price: 149999,
+        description: "add description",
+        category: "Phone"
     }, {
         _id: "16",
-        name: "Bread Sandwich",
-        image: product_16,
-        price: 249,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        name: "OnePlus 11 Pro",
+        image: food_16,
+        price: 79999,
+        description: "add description",
+        category: "Phone"
     }, {
         _id: "17",
-        name: "Cup Cake",
-        image: product_17,
-        price: 149,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        name: "Nothing Phone",
+        image: food_17,
+        price: 42999,
+        description: "add description",
+        category: "Phone"
     }, {
         _id: "18",
-        name: "Vegan Cake",
-        image: product_18,
-        price: 129,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        name: "Samsung S23",
+        image: food_18,
+        price: 69999,
+        description: "add description",
+        category: "Phone"
     }, {
         _id: "19",
-        name: "Butterscotch Cake",
-        image: product_19,
-        price: 209,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        name: "ASUS Rog 7",
+        image: food_19,
+        price: 59999,
+        description: "add description",
+        category: "Phone"
     }, {
         _id: "20",
-        name: "Sliced Cake",
-        image: product_20,
-        price: 159,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        name: "Realme GT",
+        image: food_20,
+        price: 49999,
+        description: "add description",
+        category: "Phone"
     }, {
         _id: "21",
-        name: "Garlic Mushroom ",
-        image: product_21,
-        price: 149,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
-    }, {
+        name: "iPad Pro 13",
+        image: food_21,
+        price: 99999,
+        description: "add description",
+        category: "Tab"
+    },
+    {
         _id: "22",
-        name: "Fried Cauliflower",
-        image: product_22,
-        price: 229,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
-    }, {
+        name: "iPad Air",
+        image: food_22,
+        price: 74999,
+        description: "add description",
+        category: "Tab"
+    },  {
         _id: "23",
-        name: "Mix Veg Pulao",
-        image: product_23,
-        price: 109,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        name: "Samsung Galaxy Tab S",
+        image: food_23,
+        price: 29999,
+        description: "add description",
+        category: "Tab"
     }, {
         _id: "24",
-        name: "Rice Zucchini",
-        image: product_24,
-        price: 129,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        name: "Google Pixel 6",
+        image: food_24,
+        price: 99999,
+        description: "add description",
+        category: "Phone"
     },
     {
         _id: "25",
-        name: "Cheese Pasta",
-        image: product_25,
-        price: 129,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        name: "Samsung Watch",
+        image: food_25,
+        price: 29999,
+        description: "add description",
+        category: "Watch"
     },
     {
         _id: "26",
-        name: "Tomato Pasta",
-        image: product_26,
-        price: 189,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        name: "Apple Watch 7",
+        image: food_26,
+        price: 49999,
+        description: "add description",
+        category: "Watch"
     }, {
         _id: "27",
-        name: "Creamy Pasta",
-        image: product_27,
-        price: 169,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        name: "Apple Watch 7 Pro",
+        image: food_27,
+        price: 69999,
+        description: "add description",
+        category: "Watch"
     }, {
         _id: "28",
-        name: "Chicken Pasta",
-        image: product_28,
-        price: 249,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        name: "Airpods Pro",
+        image: food_28,
+        price: 29999,
+        description: "add description",
+        category: "TWS"
     }, {
         _id: "29",
-        name: "Buttter Noodles",
-        image: product_29,
-        price: 149,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        name: "Airpods Max",
+        image: food_29,
+        price: 49999,
+        description: "add description",
+        category: "TWS"
     }, {
         _id: "30",
-        name: "Veg Noodles",
-        image: product_30,
-        price: 129,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        name: "Samsung Buds",
+        image: food_30,
+        price: 12999,
+        description: "add description",
+        category: "TWS"
     }, {
         _id: "31",
-        name: "Somen Noodles",
-        image: product_31,
-        price: 209,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        name: "iPhone Charger",
+        image: food_31,
+        price: 1999,
+        description: "add description",
+        category: "Charger"
     }, {
         _id: "32",
-        name: "Cooked Noodles",
-        image: product_32,
-        price: 159,
-        description: "product provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        name: "Type C Charger",
+        image: food_32,
+        price: 1599,
+        description: "add description",
+        category: "Charger"
     }
 ]
