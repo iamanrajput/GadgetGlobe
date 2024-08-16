@@ -5,7 +5,10 @@
     background-size: contain;
     position: relative;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6d997c0bc5a9950a65dccd9f1a1646d0d1dc89e1
 @media (max-width:1050px){
     .header{
         height:38vw;
