@@ -5,8 +5,7 @@ import './Type.css';
 const Type = ({category, setCategory}) => {
   return (
     <div className="explore-type" id="explore-type">
-      <h1>Explore our type</h1>
-      <p className='explore-type-text'> Choose from a diverse type featuring a delectable array of dishes. </p>
+      <h1>Explore our products</h1>
       <div className="explore-type-list">
         {type_list.map((item, index) => {
           return (

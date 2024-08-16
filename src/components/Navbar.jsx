@@ -13,10 +13,10 @@ const Navbar = ({setShowLogin}) => {
     <div className='navbar'>
        <Link to='/' ><img src={assets.logo} alt="" className="log" /></Link>
        <ul className="navbar-type">
-        <Link to="/" onClick={()=>setType("home")} className={type==="home"?"active":""}>home</Link>
-        <a href= "#explore-type" onClick={()=>setType("type")} className={type==="type"?"active":""}>type</a>
-        <a href="#app-download" onClick={()=>setType("mobile-app")} className={type==="mobile-app"?"active":""}>mobile-app</a>
-        <a href="#footer" onClick={()=>setType("contact-us")} className={type==="contact-us"?"active":""}>contact us</a>
+        <Link to="/" onClick={()=>setType("home")} className={type==="home"?"active":""}>Home</Link>
+        <a href= "#explore-type" onClick={()=>setType("product")} className={type==="type"?"active":""}>Products</a>
+        <a href="#app-download" onClick={()=>setType("mobile-app")} className={type==="mobile-app"?"active":""}>Mobile App</a>
+        <a href="#footer" onClick={()=>setType("contact-us")} className={type==="contact-us"?"active":""}>Contact Us</a>
        </ul>
        <div className="navbar-right">
         <img src={assets.search_icon} alt="" />
