@@ -42,7 +42,7 @@
     background-color: #e2e2e2;
 }
 .explore-type-list-item .active{
-    border:4px solid tomato;
+    border:4px solid rgb(75, 80, 83);
     padding: 2px;;
 }
 @media (max-width:1050px){
