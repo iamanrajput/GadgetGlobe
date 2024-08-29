@@ -19,7 +19,7 @@
     width:100%;
     padding: 10px;
     border-radius: 4px;
-    outline-color:tomato
+    outline-color:rgb(75, 80, 83);
 }
 .place-oredr-left .multi-field{
     display: flex;
