@@ -1,6 +1,6 @@
 # GadgetGlobe
 
-GadgetGlobe is an online electronics store built using React. It allows users to browse and purchase a wide range of electronic products such as laptops, phones, tablets, and accessories. The app provides features like product filtering by categories, a shopping cart, and order placement................
+GadgetGlobe is an online electronics store built using React. It allows users to browse and purchase a wide range of electronic products such as laptops, phones, tablets, and accessories. The app provides features like product filtering by categories, a shopping cart, and order placement...............
 
 ## Features
 
